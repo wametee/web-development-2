@@ -5,6 +5,18 @@ Server-side scripting is a crucial aspect of web development, allowing developer
 
 ---
 
+### Objectives
+1. Understand the fundamentals of Server-Side Scripting using PHP.
+2. Learn how to use PHP Syntax for web development.
+3. Implement variables in PHP and understand their types and scope.
+4. Apply Control Structures (conditions and loops) for dynamic content.
+5. Work through PHP Basics, including form handling and database connections.
+6. Build a simple PHP project to demonstrate all the concepts covered.
+
+---
+
+---
+
 ## Table of Contents
 1. [Syntax](#syntax)
 2. [Variables](#variables)
